@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+---
+title: Pokémon Grand Dad version
+---
 
-You can use the [editor on GitHub](https://github.com/ev1l0rd/sevenGrandDad/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## What is 7 Grand Dad?
+7 Grand Dad on it's own refers to a _The Flintstones: The Rescue of Dino and Hoppy_ bootleg likely made by the J.Y. Company. Its primary features are a changed titlescreen and a modifcation of Fred Flintstones head to the sprite from _Super Mario Bros. 3_. It became popular after VineSauce's Joel livestreamed it (along with his reaction). It was eventually picked up by the SiIvaGunner channel who incorporated it in many of it's rips.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What is Pokémon Grand Dad version?
+Pokémon Grand Dad refers to a Pokémon ROM hack made by the people behind the SiIvaGunner channel as part of their [Reboot arc ARG](https://www.reddit.com/r/GiIvaSunner/comments/4s8w0p/summary_of_the_reboot_for_those_who_are_confused/). It is a very small hack, featuring 'Chad' having a Pokémon battle against 'The Voice Inside Your Head', with the Pokémon being replaced by the memes commonly featured on the channel. After defeating TVIYH, the player is allowed to enter the Champions chamber in which only a PC is placed with a link to a Pastebin.
 
-### Markdown
+## What is this site?
+This site is a small collection of all content in Pokémon Grand Dad version. Consider it a dump of some sorts of all the data I have managed to extract from it. Currently it features:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [QR codes for Chads Pokémon](qrchad.html)
+- [QR codes for The Voice's Pokémon](qrvoice.html)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ev1l0rd/sevenGrandDad/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+More to potentially come.
